@@ -114,7 +114,7 @@ This plugin is fully compatible with multisite network installs, allowing three 
 5. Go back to the plugin configuration page, which is located under Google Analytics menu to update/set your settings.
 6. Go to Google Analytics -> Tracking Code to configure/enable/disable tracking.
 
-## Frequently Asked Questions == 
+## Frequently Asked Questions
 
 ### Do I have to insert the Google Analytics tracking code manually? 
 
